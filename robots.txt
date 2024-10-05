@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousaphac.github.io/sitemap.html.gz
+Sitemap: https://ousaphac.github.io/app/sitemap.html.gz
+Sitemap: https://ousaphac.github.io/assets/sitemap.html.gz
+Sitemap: https://ousaphac.github.io/css/sitemap.html.gz
+Sitemap: https://ousaphac.github.io/data/sitemap.html.gz
+Sitemap: https://ousaphac.github.io/includes/sitemap.html.gz
+Sitemap: https://ousaphac.github.io/item/sitemap.html.gz
+Sitemap: https://ousaphac.github.io/src/sitemap.html.gz
